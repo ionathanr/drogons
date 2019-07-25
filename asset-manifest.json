@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drogons/static/css/main.cabdc0d2.chunk.css",
+    "main.js": "/drogons/static/js/main.3174c0ce.chunk.js",
+    "main.js.map": "/drogons/static/js/main.3174c0ce.chunk.js.map",
+    "runtime~main.js": "/drogons/static/js/runtime~main.88ffe5d0.js",
+    "runtime~main.js.map": "/drogons/static/js/runtime~main.88ffe5d0.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/drogons/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/drogons/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/drogons/index.html",
+    "precache-manifest.54d7a3c9dd05cd06a3983d69e490774e.js": "/drogons/precache-manifest.54d7a3c9dd05cd06a3983d69e490774e.js",
+    "service-worker.js": "/drogons/service-worker.js",
+    "static/css/main.cabdc0d2.chunk.css.map": "/drogons/static/css/main.cabdc0d2.chunk.css.map"
+  }
+}
